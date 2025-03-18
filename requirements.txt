@@ -1,0 +1,10 @@
+# chromadb
+langchain
+pypdf
+sentence-transformers
+google-generativeai
+faiss-cpu
+langchain_google_genai
+langchain_community
+ollama
+python-dotenv
